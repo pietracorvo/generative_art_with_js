@@ -2,7 +2,7 @@
 
 Generate fancy generative art with vanilla Javascript on HTML canvas.
 
-Inspired by [Frank's laboratory](https://www.youtube.com/c/Frankslaboratory)
+Inspired by [Frank's laboratory](https://www.youtube.com/c/Frankslaboratory).
 
 
 
