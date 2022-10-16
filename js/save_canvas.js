@@ -1,5 +1,6 @@
-// TODO add tooltips 
-// TODO add save to dialog
+// TODO add tooltips
+// TODO add save to dialog (?)
+// TODO creating <a> el and clicking to save could be easier
 function save_canvas_as_png(){
     const canvas_id = 'canvas1'
     const canvas = document.getElementById(canvas_id);
@@ -13,10 +14,10 @@ function save_canvas_as_png(){
     document.body.removeChild(a);
 }
 
-function save_by_pressing_down(e) {
+function save_by_pressing_skey(e) {
     if (e.key === 's') {
         save_canvas_as_png();
     }
 }
 
-document.addEventListener('keypress', save_by_pressing_down);
+document.addEventListener('keypress', save_by_pressing_skey);
