@@ -50,7 +50,7 @@ class Flower{
         this.size = size;
         this.maxFlowerSize = this.size + Math.random() * 50;
         this.image = new Image();
-        this.image.src = 'flowers.png';
+        this.image.src = 'img/flowers.png';
         this.frameSize = 100;
         this.frameY = Math.floor(Math.random() * 3);
         this.frameX = Math.floor(Math.random() * 3);
