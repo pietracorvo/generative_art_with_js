@@ -2,7 +2,7 @@
 
 Generate fancy generative art with vanilla Javascript on HTML canvas.
 
-[Live version](https://pietracorvo.github.io/generative_art_with_js/) powered by GitHub Pages.
+[Live version](https://pietracorvo.github.io/generative_art_with_js/) of master powered by GitHub Pages.
 
 Inspired by [Frank's laboratory](https://www.youtube.com/c/Frankslaboratory).
 
