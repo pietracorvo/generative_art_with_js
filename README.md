@@ -23,3 +23,4 @@ TODOs:
 
 Further Idead:
 - https://www.youtube.com/watch?v=AbPGsRdNhds
+- [3d viz quaternion mutltiplication](https://www.youtube.com/watch?v=d4EgbgTm0Bg)
