@@ -20,3 +20,6 @@ TODOs:
 - add more bushes (and mechanism to tweak them)
 - add functionality to switch between brushes
 - OPT maybe also implement particle stuff
+
+Further Idead:
+- https://www.youtube.com/watch?v=AbPGsRdNhds
